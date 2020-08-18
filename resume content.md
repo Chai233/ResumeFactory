@@ -1,7 +1,6 @@
 # Ai Chen
 aic2@andrew.cmu.edu | +1 9172398763 | 632 Bellefonte St Apt 5, Pittsburgh, PA, 15232
 
-
 ## EDUCATION
 - Carnegie Mellon University	Pittsburgh, PA
     - Master of Information System Management; GPA: 3.89/4.0	Expected Dec 2020
